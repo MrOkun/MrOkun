@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrOkun
-- 👀 I’m interested in game develop.
+- 👀 I’m interested in any c# and game develop.
 - 🌱 I’m currently learning c#, unity api.
 - 📫 Contact me in telegram - @alexklush.
 
