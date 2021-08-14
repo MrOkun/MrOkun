@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrOkun
-- 👀 I’m interested in any c# and game develop.
-- 🌱 I’m currently learning c#, unity api.
+- 👀 I’m interested in any C# and game develop.
+- 🌱 I’m currently learning C#, Java, Unity, Spigot api.
 - 📫 Contact me in telegram - @alexklush.
 
 <!---
