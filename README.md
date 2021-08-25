@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MrOkun
-- 👀 I’m interested in any C# and game develop.
-- 🌱 I’m currently learning C#, Java, Unity, Spigot api.
-- 📫 Contact me in telegram - @alexklush.
+- 👋 Hi, I’m Alexander Klushnichenko.
+- 👀 I’m interested in any C# develop.
+- 🌱 I’m currently learning C#, Java, Unity, Spigot API.
+- 💢 It's my own website: mrokun.github.io/MrOkunSite.
+- 📫 Contact me in telegram or vk by id - alexklush.
 
 <!---
 MrOkun/MrOkun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
