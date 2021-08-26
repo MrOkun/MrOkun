@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander Klushnichenko.
+- 👋 Hi, I’m Alexander.
 - 👀 I’m interested in any C# develop.
 - 🌱 I’m currently learning C#, Java, Unity, Spigot API.
 - 📫 Contact me in Telegram or VK by id - alexklush.
