@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Alexander.
-- 👀 I’m interested in any C# develop.
-- 🌱 I’m currently learning C#, Java, Unity, Spigot API.
-- 📫 Contact me in Telegram or VK by id - alexklush.
+- Contact me in VK or Telegram by id alexklush.
+- I'm learning C#, some Java and Web.
 
-<!---
-MrOkun/MrOkun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrOkun&show_icons=true) 
