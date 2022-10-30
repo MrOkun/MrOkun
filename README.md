@@ -1,2 +1,2 @@
 - Contact me in VK or Telegram by id alexklush.
-- I am learning C#, some Java and Web.
+- I am learning C#.
