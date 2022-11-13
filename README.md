@@ -1,7 +1,7 @@
 ### Hi, my name is Alexander.
 
-- I'm learning C# ❤
-- Contact me in [VK](https://vk.com/alexklush "My VK") | [Telegram](https://t.me/AlexKlush "My TG") 🤙
+- I'm learning C#
+- Contact me in [VK](https://vk.com/alexklush "My VK") | [Telegram](https://t.me/AlexKlush "My TG")
  
 
 #### Now I'm working on this : 
