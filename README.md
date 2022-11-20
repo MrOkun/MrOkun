@@ -1,6 +1,6 @@
 ### Hi, my name is Alexander.
 
-- I'm learning C#
+- I'm learning C#, JS
 - Contact me in [VK](https://vk.com/alexklush "My VK") | [Telegram](https://t.me/AlexKlush "My TG")
  
 
